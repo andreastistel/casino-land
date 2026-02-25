@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/casino-land/static/css/main.f855e6bc.css",
+    "main.js": "/casino-land/static/js/main.bd179c70.js",
+    "static/js/453.600bc02a.chunk.js": "/casino-land/static/js/453.600bc02a.chunk.js",
+    "index.html": "/casino-land/index.html",
+    "main.f855e6bc.css.map": "/casino-land/static/css/main.f855e6bc.css.map",
+    "main.bd179c70.js.map": "/casino-land/static/js/main.bd179c70.js.map",
+    "453.600bc02a.chunk.js.map": "/casino-land/static/js/453.600bc02a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.bd179c70.js"
+  ]
+}
